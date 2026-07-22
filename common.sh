@@ -32,7 +32,7 @@ VALIDATE(){
     fi
 }
 
-print_total-time(){
+print_total_time(){
 
     echo -e "$TIMESTAMP [INFO] script executed in $G $SECONDS seconds $N"
 }
