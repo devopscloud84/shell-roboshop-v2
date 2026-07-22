@@ -1,7 +1,7 @@
 #!/bin/bash
 
 app_name=shipping
-MYSQL_HOST=mysql.daws90s.shop
+MYSQL_HOST=mysql.daws8486.online
 source ./common.sh
 check_root
 
